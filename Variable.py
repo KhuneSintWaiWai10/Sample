@@ -46,3 +46,25 @@ the remainder of the division = 10 % 3
  7 * 5 - 6 * 3 % 3
  6 * 5 - 7 * 4 / 4 % 2
  8 * 9 - 4 * 5 / 3 - 2
+
+ a = 1 
+ a (variable) = (assign) (Value)
+
+ width = 20 
+ height = 5 * 9 
+ volume = width * height
+ volume 
+
+  sale = 1500
+>>> tax = 5 / 100
+>>> total_tax = sale * tax
+>>> total_tax
+75.0
+>>> total_price = sale + tax
+>>> total_price
+1500.05
+>>> total_price =sale + total_tax
+>>> total_price
+1575.0
+>>> round (total_price)
+1575
