@@ -1,0 +1,13 @@
+# a package manager for python packages
+# contains all the files you need for a module.
+
+pip --version           						= Version check
+pip install 									= pip installation 
+python -m pip install --upgrade pip				= pip upgrade 
+-- user											= user permission
+pip install numpy 								= read the text file 
+pip install -r requirements.text				= read the text file 
+python -m pip uninstallation 					= uninstall pip
+pip uninstall pip 								= uninstall package
+--no-warn-script-location 						= for path script 
+pip list 										= python pip list
